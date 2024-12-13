@@ -1,0 +1,2 @@
+folder w którym znajdą się wszystkie eventy w formie plików .txt
+TODO: Usunąć przed publikacją

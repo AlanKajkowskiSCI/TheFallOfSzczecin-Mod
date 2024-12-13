@@ -1,0 +1,1 @@
+Znajdą się tu pliki odpowiedzialne za interfejs, głównie .gfx i .gui

@@ -1,0 +1,4 @@
+W tym folderze pojawią się pliki mapy oraz 3 główne foldery:
+ - strategicregions
+ - supplyareas
+ - terrain

@@ -1,0 +1,4 @@
+Tutaj znajdą się 3 główne foldery:
+ - countries - opisy wszystkich nacji/fakcji
+ - states - opisy regionów/prowincji
+ - units - opisy jednostek (siły zbrojne)

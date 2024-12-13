@@ -1,0 +1,2 @@
+Folder w którym znajdą się wszystkie grafiki. Powinny być one posegregowane w foldery.
+TODO: Usunąć przed publikacją

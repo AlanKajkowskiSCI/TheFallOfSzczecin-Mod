@@ -1,0 +1,12 @@
+Najważniejszy folder, to tu znajduje się większość plików, takich jak:
+ - zdolności
+ - osiągnięcia
+ - ideologie
+ - cele narodowe
+ - technologie
+ - uzbrojenie
+
+i tym podobne.
+
+Każda kategoria powinna mieć swój osobny folder.
+TODO: Usunąć przed publikacją
